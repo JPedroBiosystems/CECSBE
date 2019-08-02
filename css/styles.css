@@ -133,7 +133,6 @@ nav ul li a {
   transition: text-shadow 0.4s ease;
   font-family: 'Blinker', sans-serif;
   letter-spacing: 1px;
-
 }
 nav ul li a:before, nav ul li a:after
 {
